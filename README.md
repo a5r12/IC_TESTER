@@ -1,3 +1,6 @@
+
+![GitHub Contributors](https://img.shields.io/github/contributors/techrj786/IC_TESTER.svg)
+
 Based on the provided codes, here's a detailed overview of your project including pin connections:
 
 ### Pin Connections
@@ -53,5 +56,7 @@ you can change the font_style , font_size and string format etc as per your requ
 
 
 basically the need of 2 device because of, All digital and analog pins are occupied , and we want to display the output on oled or lcd then required more pins that's why we have use second device either it could be esp8266 or arduino or something else..
+
+
 
 
