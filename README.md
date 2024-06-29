@@ -2,7 +2,7 @@
 # IC Tester
 
 ## Description
-A brief description of your project.
+A brief description of my+- project.
 
 ## Contributors
 
@@ -11,7 +11,7 @@ A brief description of your project.
 
 ![GitHub Contributors](https://img.shields.io/github/contributors/a5r12/IC_TESTER.svg)
 
-Based on the provided codes, here's a detailed overview of your project including pin connections:
+Based on the provided codes, here's a detailed overview of my project including pin connections:
 
 ### Pin Connections
 
