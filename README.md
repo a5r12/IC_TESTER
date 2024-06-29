@@ -1,5 +1,15 @@
 
-![GitHub Contributors](https://img.shields.io/github/contributors/techrj786/IC_TESTER.svg)
+# IC Tester
+
+## Description
+A brief description of your project.
+
+## Contributors
+
+- @a5r12 - Initial work
+- [@techrj786](https://github.com/techrj786) - Collaborator and contributor
+
+![GitHub Contributors](https://img.shields.io/github/contributors/a5r12/IC_TESTER.svg)
 
 Based on the provided codes, here's a detailed overview of your project including pin connections:
 
