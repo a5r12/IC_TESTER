@@ -37,3 +37,6 @@ Based on the provided codes, here's a detailed overview of your project includin
    - Both devices work together to create a monitoring and diagnostic system for integrated circuit functionality.
 
 This setup allows for a compact and interactive system where IC testing results are efficiently displayed on a small OLED screen, suitable for debugging and monitoring purposes in electronics projects.
+
+![WhatsApp Image 2024-06-28 at 00 37 32_44d06e1c](https://github.com/a5r12/IC_TESTER/assets/159612830/b3e22952-f6ba-4dbe-9094-f479c47a8d41)
+
