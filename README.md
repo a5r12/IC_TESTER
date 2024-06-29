@@ -39,4 +39,15 @@ Based on the provided codes, here's a detailed overview of your project includin
 This setup allows for a compact and interactive system where IC testing results are efficiently displayed on a small OLED screen, suitable for debugging and monitoring purposes in electronics projects.
 
 ![WhatsApp Image 2024-06-28 at 00 37 32_44d06e1c](https://github.com/a5r12/IC_TESTER/assets/159612830/b3e22952-f6ba-4dbe-9094-f479c47a8d41)
+First ever prototype based on idea.
+
+in this live project we change our second arduino with esp8266 in order to take advantage of wifi module and that 16x2 LCD is replaced by the SSD1306 OLED 128X64 (PIXEL). so you can change according to your project .
+
+![image](https://github.com/a5r12/IC_TESTER/assets/159612830/b07d1e09-1889-4a2c-a58b-30af9a3bee92)
+thats how output look like ....
+you can change the font_style , font_size and string format etc as per your requirements.
+
+
+basically the need of 2 device because of, All digital and analog pins are occupied , and we want to display the output on oled or lcd then required more pins that's why we have use second device either it could be esp8266 or arduino or something else..
+
 
